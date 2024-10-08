@@ -1,0 +1,4 @@
+.mode {
+  color : green;
+  background-color : yellow;
+}
